@@ -1,4 +1,4 @@
-Proyecto base desarrolado del segundo reto
+Proyecto segundo reto equipo 01  grupo 2288
 
 Se desarrollaron los TODO dentro de la estructura del proyecto.
 
